@@ -1,3 +1,3 @@
-# react-homework1-getDataFromApp
+# getDataFromApp
 # patika-dev profilim:
 https://app.patika.dev/changbogo
